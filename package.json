@@ -1,0 +1,36 @@
+{
+  "name": "desktop-tutorial",
+  "version": "1.0.0",
+  "description": "This is your README. READMEs are where you can communicate what your project is and how to use it.",
+  "private": true,
+  "scripts": {
+    "dev": "vite --host 0.0.0.0 --port 4173",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0 --port 4173"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lbljifu-cmyk/desktop-tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/lbljifu-cmyk/desktop-tutorial/issues"
+  },
+  "homepage": "https://github.com/lbljifu-cmyk/desktop-tutorial#readme",
+  "dependencies": {
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "firebase": "^13.1.0",
+    "lucide-react": "^1.66.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "typescript": "^7.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.1.2",
+    "vite": "^8.3.5"
+  }
+}
