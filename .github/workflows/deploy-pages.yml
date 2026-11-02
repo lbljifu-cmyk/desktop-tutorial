@@ -1,4 +1,4 @@
-name: Deploy SEIAN Store to GitHub Pages
+name: Deploy SEAN Store to GitHub Pages
 
 on:
   push:

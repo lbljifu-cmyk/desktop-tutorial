@@ -128,7 +128,7 @@ const PRODUCTS = [
 
 const TRANSLATIONS = {
   en: {
-    shop: 'Shop Collection', new: 'New Arrivals', cart: 'Shopping Bag', total: 'Total', checkout: 'Checkout', heroImage: 'SEIAN fashion collection',
+    shop: 'Shop Collection', new: 'New Arrivals', cart: 'Shopping Bag', total: 'Total', checkout: 'Checkout', heroImage: 'SEAN fashion collection',
     empty: 'Your shopping bag is empty', login: 'Login', register: 'Register', outOfStock: 'Out of Stock',
     add: 'Add to Bag', women: 'Women', men: 'Men', about: 'About', language: 'Select language',
     season: 'Spring / Summer 2026', headline: 'THE NEW ESSENTIALS', featureTitles: ['Free shipping', '30-day returns', 'Crafted essentials'],
@@ -137,21 +137,21 @@ const TRANSLATIONS = {
     collectionTexts: ['Layered essentials for calm evenings', 'Refined silhouettes built for movement', 'Textured finishes and quiet luxury'],
     curated: 'Curated', viewAll: 'View All', footerDescription: 'Defining the modern standard through minimalist design, premium materials, and uncompromised craftsmanship.',
     links: 'Links', aboutUs: 'About Us', storeLocator: 'Store Locator', careers: 'Careers', contact: 'Contact',
-    company: 'Company', corporateNumber: 'Corporate No.', representative: 'Representative', policies: 'Policies',
+    company: 'Company', corporateNumber: 'Corporate No.', representative: 'Representative', policies: 'Policies', brandCompany: 'SEAN (株式会社静安)',
     notice: 'Legal notice', privacy: 'Privacy policy', terms: 'Terms of service', returns: 'Returns & exchanges',
     sizeMaterials: 'Size & materials guide', rights: 'All Rights Reserved.',
     color: 'Color', size: 'Size', quantity: 'Quantity', decreaseQuantity: 'Decrease quantity', increaseQuantity: 'Increase quantity',
     productImage: 'Product image', sizeGuide: 'Size & Materials Guide', remove: 'Remove', qty: 'Qty',
     paymentNotice: 'JPY only. Payment processing is not connected; this prototype does not collect card details.',
     checkoutNotice: 'Checkout is unavailable until a compliant payment provider and server-side order flow are configured.',
-    accountTitle: 'SEIAN Account', accountIntro: 'Access your exclusive benefits',
+    accountTitle: 'SEAN Account', accountIntro: 'Access your exclusive benefits',
     accountNotice: 'Account registration and sign-in are not available in this prototype. No email or password is requested or stored here.',
     authNotice: 'Production authentication requires a verified provider flow, abuse prevention, and a published privacy notice.',
     policyClose: 'Close policy', policyDisclaimer: 'Policy details and seller information require confirmation before this prototype is used for real sales.',
     menu: 'Menu', close: 'Close'
   },
   jp: {
-    shop: 'コレクションを見る', new: '新着アイテム', cart: 'ショッピングバッグ', total: '合計', checkout: 'レジに進む', heroImage: 'SEIAN ファッションコレクション',
+    shop: 'コレクションを見る', new: '新着アイテム', cart: 'ショッピングバッグ', total: '合計', checkout: 'レジに進む', heroImage: 'SEAN ファッションコレクション',
     empty: 'バッグは空です', login: 'ログイン', register: '新規登録', outOfStock: '在庫切れ', add: 'バッグに追加',
     women: 'ウィメンズ', men: 'メンズ', about: 'ブランドについて', language: '言語を選択',
     season: '2026年 春夏コレクション', headline: '新しい定番', featureTitles: ['送料無料', '30日間返品', '丁寧なものづくり'],
@@ -159,22 +159,22 @@ const TRANSLATIONS = {
     collectionNames: ['くつろぎの時間', 'ワークスタイル', 'フットウェア'],
     collectionTexts: ['穏やかな夜に寄り添うレイヤードアイテム', '動きやすさを備えた洗練されたシルエット', '素材の表情と控えめな上質さ'],
     curated: 'セレクト', viewAll: 'すべて見る', footerDescription: 'ミニマルなデザイン、上質な素材、妥協のないクラフツマンシップで、現代のスタンダードを提案します。',
-    links: 'リンク', aboutUs: 'SEIANについて', storeLocator: '店舗情報', careers: '採用情報', contact: 'お問い合わせ',
-    company: '会社情報', corporateNumber: '法人番号', representative: '代表者', policies: '各種ポリシー',
+    links: 'リンク', aboutUs: 'SEANについて', storeLocator: '店舗情報', careers: '採用情報', contact: 'お問い合わせ',
+    company: '会社情報', corporateNumber: '法人番号', representative: '代表者', policies: '各種ポリシー', brandCompany: 'SEAN（株式会社静安）',
     notice: '特定商取引法に基づく表記', privacy: 'プライバシーポリシー', terms: '利用規約', returns: '返品・交換',
     sizeMaterials: 'サイズ・素材ガイド', rights: '無断転載を禁じます。',
     color: 'カラー', size: 'サイズ', quantity: '数量', decreaseQuantity: '数量を減らす', increaseQuantity: '数量を増やす',
     productImage: '商品画像', sizeGuide: 'サイズ・素材ガイド', remove: '削除', qty: '数量',
     paymentNotice: '日本円のみ対応しています。決済機能は未接続のため、カード情報は収集しません。',
     checkoutNotice: '決済サービスとサーバー側の注文処理を設定するまで、購入手続きはご利用いただけません。',
-    accountTitle: 'SEIAN アカウント', accountIntro: '会員限定の特典をご覧ください',
+    accountTitle: 'SEAN アカウント', accountIntro: '会員限定の特典をご覧ください',
     accountNotice: '本デモでは会員登録・ログインはご利用いただけません。メールアドレスやパスワードの入力・保存は行いません。',
     authNotice: '本番運用には、認証プロバイダーの設定、不正利用対策、プライバシー告知が必要です。',
     policyClose: 'ポリシーを閉じる', policyDisclaimer: '実際の販売に利用する前に、ポリシーと販売者情報をご確認ください。',
     menu: 'メニュー', close: '閉じる'
   },
   cn: {
-    shop: '浏览系列', new: '新品上市', cart: '购物袋', total: '总计', checkout: '结账', heroImage: 'SEIAN 时尚系列',
+    shop: '浏览系列', new: '新品上市', cart: '购物袋', total: '总计', checkout: '结账', heroImage: 'SEAN 时尚系列',
     empty: '购物袋为空', login: '登录', register: '注册', outOfStock: '暂时缺货', add: '加入购物袋',
     women: '女装', men: '男装', about: '品牌介绍', language: '选择语言',
     season: '2026 春夏系列', headline: '全新日常之选', featureTitles: ['免费配送', '30 天退换', '匠心甄选'],
@@ -183,14 +183,14 @@ const TRANSLATIONS = {
     collectionTexts: ['陪伴宁静夜晚的层次搭配', '兼顾活动与优雅的简洁廓形', '细腻质感与低调奢雅'],
     curated: '精选', viewAll: '查看全部', footerDescription: '以简约设计、优质材质与精湛工艺，定义现代生活的日常标准。',
     links: '相关链接', aboutUs: '关于我们', storeLocator: '门店查询', careers: '加入我们', contact: '联系我们',
-    company: '公司信息', corporateNumber: '法人编号', representative: '代表人', policies: '政策与说明',
+    company: '公司信息', corporateNumber: '法人编号', representative: '代表人', policies: '政策与说明', brandCompany: 'SEAN（株式会社静安）',
     notice: '特定商业交易法说明', privacy: '隐私政策', terms: '服务条款', returns: '退换货政策',
     sizeMaterials: '尺码与材质指南', rights: '版权所有。',
     color: '颜色', size: '尺码', quantity: '数量', decreaseQuantity: '减少数量', increaseQuantity: '增加数量',
     productImage: '商品图片', sizeGuide: '尺码与材质指南', remove: '移除', qty: '数量',
     paymentNotice: '仅支持日元。此原型尚未接入支付，不会收集银行卡信息。',
     checkoutNotice: '配置合规支付服务和服务端订单流程后，方可开放结账。',
-    accountTitle: 'SEIAN 账户', accountIntro: '查看您的专属权益',
+    accountTitle: 'SEAN 账户', accountIntro: '查看您的专属权益',
     accountNotice: '此原型暂不支持账户注册或登录，也不会请求或保存邮箱及密码。',
     authNotice: '正式上线前需配置经过验证的身份服务、防滥用措施并公布隐私政策。',
     policyClose: '关闭政策说明', policyDisclaimer: '用于真实销售前，请确认政策内容和销售方信息。',
@@ -229,21 +229,21 @@ const COLOR_LABELS: Record<Language, Record<string, string>> = {
 
 const LEGAL_COPY = {
   en: {
-    notice: { title: 'Legal notice (Specified Commercial Transactions Act)', lines: ['Seller: 株式会社静安 (SEIAN Co., Ltd.) | Corporate number: 4010501050662', 'Representative: 趙 岩', 'Address: 〒151-0053, 3F ACN Yoyogi Building, 1-44-12 Yoyogi, Shibuya-ku, Tokyo, Japan', 'Telephone: +81-90-4832-6638 | Customer-service email: not supplied — add a monitored address before launch.', 'Prices: Product pages are stated to show tax-inclusive prices (10% consumption tax); verify before launch. Shipping amounts, free-shipping threshold, and any payment fees are still undecided and must be filled in.', 'Payment: Credit cards, Apple Pay, and Google Pay are proposed, but payment processing is not connected in this prototype. Do not advertise them as available until enabled and tested. Payment timing, any other methods, and deadlines remain to be confirmed.', 'Delivery: The suggested 2–5 business days is an example, not a confirmed promise. Confirm dispatch estimates for stocked and preorder items.', 'Returns: Proposed terms include customer-paid return shipping for customer-remorse returns and seller-paid shipping for defects/wrong items. The request windows, condition requirements, exclusions, refunds, and cancellation rules are not finalized; publish confirmed terms before taking orders.', 'This prototype does not accept orders. No second-hand goods permit details are included because the supplied business description is new-goods sales only.'] },
+    notice: { title: 'Legal notice (Specified Commercial Transactions Act)', lines: ['Seller: SEAN (株式会社静安) | Corporate number: 4010501050662', 'Representative: 趙 岩', 'Address: 〒151-0053, 3F ACN Yoyogi Building, 1-44-12 Yoyogi, Shibuya-ku, Tokyo, Japan', 'Telephone: +81-3-5356-8460 | Customer-service email: not supplied — add a monitored address before launch.', 'Prices: Product pages are stated to show tax-inclusive prices (10% consumption tax); verify before launch. Shipping amounts, free-shipping threshold, and any payment fees are still undecided and must be filled in.', 'Payment: Credit cards, Apple Pay, and Google Pay are proposed, but payment processing is not connected in this prototype. Do not advertise them as available until enabled and tested. Payment timing, any other methods, and deadlines remain to be confirmed.', 'Delivery: The suggested 2–5 business days is an example, not a confirmed promise. Confirm dispatch estimates for stocked and preorder items.', 'Returns: Proposed terms include customer-paid return shipping for customer-remorse returns and seller-paid shipping for defects/wrong items. The request windows, condition requirements, exclusions, refunds, and cancellation rules are not finalized; publish confirmed terms before taking orders.', 'This prototype does not accept orders. No second-hand goods permit details are included because the supplied business description is new-goods sales only.'] },
     privacy: { title: 'Privacy policy', lines: ['This prototype has no production checkout. Do not enter real payment or sensitive personal information. Firebase anonymous authentication is initialized in the background and may create an anonymous identifier.', 'A production operator must document purposes, data categories, retention, processors (including Firebase/payment providers), user rights, contact details, and applicable APPI procedures before collecting customer data.', 'No analytics or advertising cookies are configured here. If non-essential cookies or EU/EEA tracking are added, obtain and record valid consent before loading them, and provide withdrawal controls.'] },
     terms: { title: 'Terms of service', lines: ['This storefront is a visual prototype; account, payment, order, and delivery services are not production-ready.', 'Before launch, publish reviewed terms covering eligibility, ordering, payment, delivery, cancellations, intellectual property, liability, governing law, and customer support.'] },
     returns: { title: 'Returns and exchanges', lines: ['Proposed policy — must be confirmed and legally reviewed before launch.', 'Size/fit: Publish the application window, condition/packaging requirements, process, and who pays return shipping.', 'Defects or wrong items: Publish a contact method, notification deadline, inspection and replacement/refund process, and seller-paid shipping rules.', 'No purchases can currently be made through this prototype.'] },
     size: { title: 'Size & materials guide', lines: ['Garment measurements (shoulder, chest, length), model measurements/fit notes, and measured tolerances have not been supplied; do not rely on S/M/L alone. Add verified item-specific measurements before launch.', 'Materials shown from the current product descriptions: linen set — European linen (fiber composition/percentages to verify); T-shirt — 100% organic cotton (supplier certification to verify); apron — cotton canvas; room shoes — faux-suede exterior and plush lining. Confirm labels against supplier records.'] }
   },
   jp: {
-    notice: { title: '特定商取引法に基づく表記', lines: ['販売業者：株式会社静安', '法人番号：4010501050662', '運営統括責任者：趙 岩', '所在地：〒151-0053 東京都渋谷区代々木1-44-12 ACN代々木ビル3階', '電話番号：090-4832-6638', 'メールアドレス：未提供（公開前に連絡確認ができるメールアドレスを設定してください）。', '販売価格：商品詳細ページに税込価格を表示（消費税10%との記載は公開前に要確認）。送料、送料無料条件、決済手数料は未確定のため、注文受付前に確定・表示してください。', '支払方法・時期：クレジットカード、Apple Pay、Google Payは導入予定として提示されていますが、本デモでは決済未接続です。利用可能な決済手段・課金時期・その他の支払期限は、導入確認後に確定してください。', '商品の引渡時期：例示の「2〜5営業日」は確定情報ではありません。在庫品・予約品ごとの発送目安を確認してから掲載してください。', '返品・交換・キャンセル：案として、お客様都合の返送料はお客様負担、不良品・誤配送の返送料は当社負担とされています。申請期限、商品状態、返品不可条件、返金・キャンセル条件は未確定のため、実運用に合わせて確定してください。', '本デモでは注文を受け付けていません。新品のみの販売との提供情報に基づき、古物商許可の記載は設けていません。'] },
+    notice: { title: '特定商取引法に基づく表記', lines: ['販売業者：SEAN（株式会社静安）', '法人番号：4010501050662', '運営統括責任者：趙 岩', '所在地：〒151-0053 東京都渋谷区代々木1-44-12 ACN代々木ビル3階', '電話番号：03-5356-8460', 'メールアドレス：未提供（公開前に連絡確認ができるメールアドレスを設定してください）。', '販売価格：商品詳細ページに税込価格を表示（消費税10%との記載は公開前に要確認）。送料、送料無料条件、決済手数料は未確定のため、注文受付前に確定・表示してください。', '支払方法・時期：クレジットカード、Apple Pay、Google Payは導入予定として提示されていますが、本デモでは決済未接続です。利用可能な決済手段・課金時期・その他の支払期限は、導入確認後に確定してください。', '商品の引渡時期：例示の「2〜5営業日」は確定情報ではありません。在庫品・予約品ごとの発送目安を確認してから掲載してください。', '返品・交換・キャンセル：案として、お客様都合の返送料はお客様負担、不良品・誤配送の返送料は当社負担とされています。申請期限、商品状態、返品不可条件、返金・キャンセル条件は未確定のため、実運用に合わせて確定してください。', '本デモでは注文を受け付けていません。新品のみの販売との提供情報に基づき、古物商許可の記載は設けていません。'] },
     privacy: { title: 'プライバシーポリシー', lines: ['本デモに本番用の決済機能はありません。実際の決済情報や機微な個人情報を入力しないでください。Firebaseの匿名認証をバックグラウンドで初期化しており、匿名識別子が作成される場合があります。', '本番運用前に、利用目的・取得情報・保存期間・委託先（Firebase／決済事業者等）・利用者の権利・窓口および個人情報保護法上の手続きを確認し、明記してください。', '本画面ではアクセス解析・広告Cookieを設定していません。将来、必須でないCookie等を導入する場合、EU/EEA向けには事前同意と撤回手段を実装してください。'] },
     terms: { title: '利用規約', lines: ['本サイトは表示用プロトタイプです。会員、決済、注文、配送機能は本番利用できません。', '公開前に、利用条件、注文、支払、配送、キャンセル、知的財産、責任、準拠法および問い合わせ窓口を定めた規約を確認・掲載してください。'] },
     returns: { title: '返品・交換ポリシー', lines: ['以下は案です。公開前に実際の運用に合わせて確定し、法的確認を行ってください。', 'サイズ・フィット：申請期限、商品の状態・梱包条件、手続、返送料の負担者を明記してください。', '不良品・誤配送：連絡先、申告期限、確認・交換／返金手続、返送料の負担を明記してください。', '本デモでは購入できません。'] },
     size: { title: 'サイズ・素材ガイド', lines: ['肩幅・胸囲・着丈などの実寸、モデル情報・着用感、許容差は未提供です。S/M/Lだけに頼らず、公開前に商品ごとの確認済み寸法を追加してください。', '現行説明に記載の素材：リネンセット — 欧州産リネン（組成・混率要確認）、Tシャツ — オーガニックコットン100%（認証要確認）、エプロン — コットンキャンバス、ルームシューズ — フェイクスエード外側・起毛裏地。仕入先資料と照合してください。'] }
   },
   cn: {
-    notice: { title: '特定商取引法披露（日本）', lines: ['销售方：株式会社静安 | 法人编号：4010501050662', '运营负责人：趙 岩', '地址：〒151-0053 日本东京都涩谷区代代木1-44-12 ACN代代木大厦3层', '电话：+81-90-4832-6638 | 客服邮箱：尚未提供，上线前请设置可接收并回复的邮箱。', '商品价格：商品详情页标注含税价格（消费税10%的说明需上线前核实）。运费、免邮门槛及支付手续费尚未确定，接单前必须确认并公布。', '支付方式/时间：信用卡、Apple Pay、Google Pay目前仅为拟采用方式；此原型未接通支付。完成集成和测试前不得宣传为可用。其他支付方式及付款期限待确认。', '交付时间：所提供的“2–5个工作日”为示例，并非已确认承诺。请核实现货和预售商品的发货时限。', '退换货/取消：草案提出个人原因退货由顾客承担运费，瑕疵或错发由销售方承担运费。申请期限、商品状态、不可退条件、退款和取消规则尚未确定，正式接单前请完成并公布。', '此原型不接受订单。根据所提供的仅销售新品的信息，本披露未列古物商许可信息。'] },
+    notice: { title: '特定商取引法披露（日本）', lines: ['销售方：SEAN（株式会社静安） | 法人编号：4010501050662', '运营负责人：趙 岩', '地址：〒151-0053 日本东京都涩谷区代代木1-44-12 ACN代代木大厦3层', '电话：+81-3-5356-8460 | 客服邮箱：尚未提供，上线前请设置可接收并回复的邮箱。', '商品价格：商品详情页标注含税价格（消费税10%的说明需上线前核实）。运费、免邮门槛及支付手续费尚未确定，接单前必须确认并公布。', '支付方式/时间：信用卡、Apple Pay、Google Pay目前仅为拟采用方式；此原型未接通支付。完成集成和测试前不得宣传为可用。其他支付方式及付款期限待确认。', '交付时间：所提供的“2–5个工作日”为示例，并非已确认承诺。请核实现货和预售商品的发货时限。', '退换货/取消：草案提出个人原因退货由顾客承担运费，瑕疵或错发由销售方承担运费。申请期限、商品状态、不可退条件、退款和取消规则尚未确定，正式接单前请完成并公布。', '此原型不接受订单。根据所提供的仅销售新品的信息，本披露未列古物商许可信息。'] },
     privacy: { title: '隐私政策', lines: ['此原型没有正式结账功能。请勿输入真实支付信息或敏感个人信息。后台会初始化 Firebase 匿名身份验证，可能创建匿名标识符。', '正式收集客户数据前，运营方应确认并披露处理目的、数据类别、保存期限、受托方（含 Firebase/支付服务商）、用户权利、联系渠道及日本个人信息保护法（APPI）相关流程。', '当前未配置分析或广告 Cookie。若新增非必要 Cookie 或面向欧盟/欧洲经济区的追踪，应在加载前取得并记录有效同意，并提供撤回方式。'] },
     terms: { title: '服务条款', lines: ['本网站目前仅为展示原型；账户、支付、订单和配送功能尚不能用于正式运营。', '上线前应审核并发布涵盖使用资格、订单、支付、配送、取消、知识产权、责任、适用法律及客服渠道的条款。'] },
     returns: { title: '退换货政策', lines: ['以下为待确认草案。上线前须按实际流程确定并进行法律审核。', '尺码/版型：明确申请期限、商品及包装状态要求、办理流程和退货邮费承担方。', '质量问题/错发：明确联系渠道、申报期限、核验及换货/退款流程、邮费承担方式。', '当前原型不支持购买。'] },
@@ -345,7 +345,7 @@ export default function App() {
 
           {/* Logo */}
           <div className="absolute left-1/2 transform -translate-x-1/2">
-            <h1 className="text-3xl font-light tracking-[0.2em] cursor-pointer">SEIAN</h1>
+            <h1 className="text-3xl font-light tracking-[0.2em] cursor-pointer">SEAN</h1>
           </div>
 
           {/* Right Nav */}
@@ -421,7 +421,7 @@ export default function App() {
                 <Icon size={16} />
               </div>
               <div>
-                <p className="text-xs uppercase tracking-[0.2em] text-stone-500">SEIAN</p>
+                <p className="text-xs uppercase tracking-[0.2em] text-stone-500">SEAN</p>
                 <p className="text-sm font-medium text-stone-800">{t.featureTitles[index]}</p>
                 <p className="text-xs text-stone-500">{t.featureTexts[index]}</p>
               </div>
@@ -484,7 +484,7 @@ export default function App() {
       <footer className="bg-stone-900 text-stone-400 py-16 border-t border-stone-800">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-12">
           <div>
-            <h4 className="text-white text-xl tracking-[0.2em] mb-6 font-light">SEIAN</h4>
+            <h4 className="text-white text-xl tracking-[0.2em] mb-6 font-light">SEAN</h4>
             <p className="text-sm font-light leading-relaxed max-w-xs">
                 {t.footerDescription}
             </p>
@@ -498,11 +498,11 @@ export default function App() {
           </div>
           <div className="flex flex-col space-y-3 text-sm font-light">
               <h5 className="text-white tracking-widest uppercase mb-3">{t.company}</h5>
-            <p>株式会社静安 (SEIAN Co., Ltd.)</p>
+            <p>{t.brandCompany}</p>
               <p>{t.corporateNumber}: 4010501050662</p>
               <p>{t.representative}: 趙 岩</p>
             <p>〒151-0053 東京都渋谷区代々木1-44-12 ACN代々木ビル3階</p>
-            <a href="tel:+819048326638" className="hover:text-white transition-colors">090-4832-6638</a>
+            <a href="tel:+81353568460" className="hover:text-white transition-colors">03-5356-8460</a>
           </div>
           <div className="flex flex-col space-y-3 text-sm font-light">
             <h5 className="text-white tracking-widest uppercase mb-3">{t.policies}</h5>
@@ -513,7 +513,7 @@ export default function App() {
           </div>
         </div>
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mt-16 pt-8 border-t border-stone-800 text-xs text-center font-light">
-          &copy; {new Date().getFullYear()} SEIAN Co., Ltd. {t.rights}
+          &copy; {new Date().getFullYear()} SEAN {t.rights}
         </div>
       </footer>
 

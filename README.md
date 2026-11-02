@@ -1,6 +1,6 @@
-# SEIAN Store
+# SEAN Store
 
-[![Deploy SEIAN Store to GitHub Pages](https://github.com/lbljifu-cmyk/desktop-tutorial/actions/workflows/deploy-pages.yml/badge.svg)](https://github.com/lbljifu-cmyk/desktop-tutorial/actions/workflows/deploy-pages.yml)
+[![Deploy SEAN Store to GitHub Pages](https://github.com/lbljifu-cmyk/desktop-tutorial/actions/workflows/deploy-pages.yml/badge.svg)](https://github.com/lbljifu-cmyk/desktop-tutorial/actions/workflows/deploy-pages.yml)
 
 三语商品展示网站（简体中文 / 日本語 / English），使用 React、TypeScript、Vite 和 Tailwind CSS。
 
@@ -19,7 +19,7 @@ npm run dev
 
 https://lbljifu-cmyk.github.io/desktop-tutorial/
 
-首次发布前，请在 GitHub 仓库的 **Settings → Pages → Build and deployment** 中将 **Source** 设为 **GitHub Actions**。也可以在 **Actions** 标签页手动运行 “Deploy SEIAN Store to GitHub Pages” 工作流。
+首次发布前，请在 GitHub 仓库的 **Settings → Pages → Build and deployment** 中将 **Source** 设为 **GitHub Actions**。也可以在 **Actions** 标签页手动运行 “Deploy SEAN Store to GitHub Pages” 工作流。
 
 ## 生产环境说明
 
