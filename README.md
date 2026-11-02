@@ -1,5 +1,7 @@
 # SEIAN Store
 
+[![Deploy SEIAN Store to GitHub Pages](https://github.com/lbljifu-cmyk/desktop-tutorial/actions/workflows/deploy-pages.yml/badge.svg)](https://github.com/lbljifu-cmyk/desktop-tutorial/actions/workflows/deploy-pages.yml)
+
 三语商品展示网站（简体中文 / 日本語 / English），使用 React、TypeScript、Vite 和 Tailwind CSS。
 
 ## 本地运行
